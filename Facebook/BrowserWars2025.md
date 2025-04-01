@@ -5,7 +5,7 @@
 
 The browser wars are heating up again, and this time it’s not just about speed. This is a clash over **privacy**, **control**, and who really gets to shape the future of the internet. On one side, corporate giants with billion-dollar ecosystems. On the other, privacy-first underdogs fighting to keep the web open and free.
 
-Here’s your no-nonsense breakdown of Chrome, Firefox, Brave, LibreWolf, Edge, Safari, Vivaldi, Opera, and the wildcard, Ladybird.
+Here’s your no-nonsense breakdown of Chrome, Firefox, Brave, LibreWolf, WaterFox, Edge, Safari, Vivaldi, Opera, and the wildcard, Ladybird.
 
 ---
 
