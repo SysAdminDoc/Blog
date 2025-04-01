@@ -45,7 +45,7 @@ Firefox escapes Manifest V3 because it runs on its own Gecko engine. That’s a 
 Still, Firefox drags some legacy issues:
 - Bloat and controversial Pocket integration
 - A 2024 privacy policy that caused panic over potential content tracking
-- A shrinking market share and occasional website hiccups
+- Occasional website hiccups
 
 Despite these bumps, Firefox remains the best open-source browser with a firm privacy stance.
 
@@ -165,7 +165,7 @@ As of March 2025, it’s still in pre-alpha. No extensions, no syncing, but a be
 |---------------|--------------------------------------------|--------------------------------------------------|
 | **Chrome**     | Fast, polished, widely supported           | V3 restrictions, Google tracking                 |
 | **Edge**       | Slick interface, Windows integration       | Heavy telemetry, Microsoft lock-in               |
-| **Firefox**    | Private, open-source, uBO-friendly         | Declining use, legacy concerns                   |
+| **Firefox**    | Private, open-source, uBO-friendly         | Legacy concerns                                  |
 | **LibreWolf**  | Hardened privacy, zero telemetry           | Niche appeal, no built-in sync or updates        |
 | **Brave**      | Built-in blocking, Chrome-compatible       | Crypto baggage, tied to Chromium decisions       |
 | **Safari**     | Efficient, Apple-optimized                 | Weak extension support, Apple-only               |
