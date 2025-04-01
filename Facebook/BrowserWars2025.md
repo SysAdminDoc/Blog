@@ -20,6 +20,7 @@ Here’s your no-nonsense breakdown of Chrome, Firefox, Brave, LibreWolf, Edge, 
 - **Vivaldi**: Feature-packed and made for power users.
 - **Opera**: A once-great innovator with a shady present.
 - **Ladybird**: A brand new engine that dares to ditch Chromium entirely.
+- **Waterfox**: A classic Firefox fork that’s quieter, but still kicking.
 
 This war is no longer about tabs and themes. It’s about **who owns your experience**, **who tracks you**, and **who profits from your attention**.
 
@@ -132,6 +133,19 @@ Its glory days are long gone. Proceed with caution.
 
 ---
 
+## 💧 Waterfox: The Forgotten Firefox Fork
+
+Waterfox started as a 64-bit alternative to Firefox with a focus on speed and privacy. It still supports classic Firefox extensions, which makes it unique.
+
+However, its reputation has taken a hit:
+- Acquired by System1, an ad-tech company, in 2019
+- Lost favor with hardcore privacy users after the acquisition
+- Development has slowed and communication from the dev team has been limited
+
+Still, it’s a decent middle-ground option if you want Firefox compatibility with less telemetry but don’t need LibreWolf’s extreme hardening.
+
+---
+
 ## 🐞 Ladybird: The Engine from Scratch
 
 Ladybird is a completely new browser engine that breaks free from Chromium, Gecko, and WebKit. Developed by **Andreas Kling**, it emerged from the SerenityOS project.
@@ -158,6 +172,7 @@ As of March 2025, it’s still in pre-alpha. No extensions, no syncing, but a be
 | **Vivaldi**    | Feature-rich, ultra-customizable           | Bloated, smaller dev team, Chromium base         |
 | **Opera**      | Flashy, has a VPN                          | Privacy concerns, ad-driven model                |
 | **Ladybird**   | Fresh engine, no legacy code               | Pre-alpha, not yet usable for daily browsing     |
+| **Waterfox**   | Classic extension support, Firefox base    | Owned by ad-tech firm, slow development          |
 
 ---
 
@@ -171,6 +186,7 @@ The 2025 browser war isn’t about which one loads pages faster. It’s about **
 - 🧪 Holding out for something truly independent? Watch **Ladybird**.
 - 🗂 Love features and customization? Dive into **Vivaldi**.
 - 🍏 Live in the Apple ecosystem? **Safari** will serve you fine.
+- 💧 Want Firefox without the extra fluff but not quite ready for LibreWolf? **Waterfox** could work.
 - 📉 Using Edge or Opera? You might want to rethink that.
 
 This is more than a browser decision. It’s your stake in the fight for an open web.  
