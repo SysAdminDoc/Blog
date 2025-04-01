@@ -1,3 +1,6 @@
+
+![56ca2e01-071c-4393-82bb-8aeda4e78e0f](https://github.com/user-attachments/assets/569194d6-53dd-4091-b2e6-af0ed62d158e)
+
 # 🔥 Browser Wars 2025: The Frontlines of the Web
 
 The browser wars are heating up again, and this time it’s not just about speed. This is a clash over **privacy**, **control**, and who really gets to shape the future of the internet. On one side, corporate giants with billion-dollar ecosystems. On the other, privacy-first underdogs fighting to keep the web open and free.
