@@ -192,19 +192,6 @@ Trade-offs: slow speeds, occasional CAPTCHAs, and a learning curve. For ultimate
 
 ---
 
-## 🔧 Top 20 Browser Extensions and Add-ons for 2025
-
-Here’s the rundown of the 20 most popular browser extensions/add-ons in 2025, based on user adoption, utility, and privacy trends. These enhance browsing across Chrome, Firefox, Brave, and other compatible browsers.
-
-1. **uBlock Origin**: Blocks ads, trackers, and malicious scripts with unmatched efficiency. [Download](https://ublockorigin.com/) | [r/ublock](https://www.reddit.com/r/ublock/)
-2. **Bitwarden**: Open-source password manager for secure credential storage and autofill. [Download](https://bitwarden.com/download/) | [r/bitwarden](https://www.reddit.com/r/bitwarden/)
-3. **Dark Reader**: Applies dark mode to all websites for eye comfort and aesthetics. [Download](https://darkreader.org/) | [r/darkreader](https://www.reddit.com/r/darkreader/)
-4. **Privacy Badger**: Automatically blocks trackers that violate privacy norms. [Download](https://privacybadger.org/) | [r/privacy](https://www.reddit.com/r/privacy/)
-5. **SponsorBlock**: Skips sponsored segments in YouTube videos. [Download](https://sponsor.ajay.app/) | [r/sponsorblock](https://www.reddit.com/r/sponsorblock/)
-6. **ClearURLs**: Strips tracking elements from URLs for cleaner browsing. [Download](https://clearurls.xyz/) | [r/privacytoolsIO](https://www.redditBelow is the updated Markdown version of "Browser Wars 2025: The Frontlines of the Web" with two major additions:
-
----
-
 ## 🎯 The 2025 Browser Scorecard
 
 | Browser            | Strengths                                 | Weaknesses                                      |
@@ -245,4 +232,132 @@ In 2025, your browser isn’t just software, it’s a vote for the web’s futur
 - 💧 **Waterfox**: Firefox lite but fading. [Download](https://www.waterfox.net/download/)
 - 📉 **Edge/Opera**: Corporate pawns, pass. [Edge](https://www.microsoft.com/en-us/edge) / [Opera](https://www.opera.com/download)
 
+---
 
+### 🔧 Top 20 Browser Extensions and Add-ons for 2025
+
+Here’s the rundown of the 20 most popular browser extensions/add-ons in 2025, based on user adoption, utility, and privacy trends. These enhance browsing across Chrome, Firefox, Brave, and other compatible browsers. Links are provided for Chrome Web Store and Firefox Add-ons where available.
+
+1. **uBlock Origin**: Blocks ads, trackers, and malicious scripts with unmatched efficiency.  
+   - [Chrome Store](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
+   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)  
+   - [r/ublock](https://www.reddit.com/r/ublock/)
+
+2. **Bitwarden**: Open-source password manager for secure credential storage and autofill.  
+   - [Chrome Store](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)  
+   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)  
+   - [r/bitwarden](https://www.reddit.com/r/bitwarden/)
+
+3. **Dark Reader**: Applies dark mode to all websites for eye comfort and aesthetics.  
+   - [Chrome Store](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopooifekcgmleiopmo)  
+   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)  
+   - [r/darkreader](https://www.reddit.com/r/darkreader/)
+
+4. **Privacy Badger**: Automatically blocks trackers that violate privacy norms.  
+   - [Chrome Store](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)  
+   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)  
+   - [r/privacy](https://www.reddit.com/r/privacy/)
+
+5. **SponsorBlock**: Skips sponsored segments in YouTube videos.  
+   - [Chrome Store](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbkgmo)  
+   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)  
+   - [r/sponsorblock](https://www.reddit.com/r/sponsorblock/)
+
+6. **ClearURLs**: Strips tracking elements from URLs for cleaner browsing.  
+   - [Chrome Store](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmbgnfpnaglhmjojfcgmbjl)  
+   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)  
+   - [r/privacytoolsIO](https://www.reddit.com/r/privacytoolsIO/)
+
+7. **HTTPS Everywhere**: Forces websites to use secure HTTPS connections when available.  
+   - [Chrome Store](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)  
+   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)  
+   - [r/privacy](https://www.reddit.com/r/privacy/)
+
+8. **Cookie AutoDelete**: Deletes cookies automatically after you close a tab.  
+   - [Chrome Store](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidmehklmmkjoioiooedn)  
+   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)  
+   - [r/firefox](https://www.reddit.com/r/firefox/) (no dedicated subreddit)
+
+9. **Grammarly**: Checks spelling, grammar, and style in real-time while you write.  
+   - [Chrome Store](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)  
+   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)  
+   - [r/grammarly](https://www.reddit.com/r/grammarly/)
+
+10. **Honey**: Automatically applies coupons and discounts at checkout.  
+    - [Chrome Store](https://chrome.google.com/webstore/detail/honey/bmnlcjabjjmfjddmkbllhjjnkmlknkie)  
+    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/honey/)  
+    - [r/honey](https://www.reddit.com/r/honey/) (general discussion, not specific)
+
+11. **LastPass**: Password manager with autofill and vault features.  
+    - [Chrome Store](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)  
+    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)  
+    - [r/lastpass](https://www.reddit.com/r/lastpass/)
+
+12. **AdBlocker Ultimate**: Open-source ad blocker with no "acceptable ads" policy.  
+    - [Chrome Store](https://chrome.google.com/webstore/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof)  
+    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/)  
+    - [r/adblock](https://www.reddit.com/r/adblock/)
+
+13. **Tampermonkey**: Manages and runs userscripts to customize web pages.  
+    - [Chrome Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
+    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)  
+    - [r/tampermonkey](https://www.reddit.com/r/tampermonkey/)
+
+14. **Enhancer for YouTube**: Adds customization options like ad-skipping and playback controls to YouTube.  
+    - [Chrome Store](https://chrome.google.com/webstore/detail/enhancer-for-youtube/jifpofmljmfphmcfiphkmpmkljnpfinb)  
+    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)  
+    - [r/youtube](https://www.reddit.com/r/youtube/) (no dedicated subreddit)
+
+15. **Stylus**: Applies custom CSS to websites for personalized styling.  
+    - [Chrome Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)  
+    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)  
+    - [r/stylus](https://www.reddit.com/r/stylus/)
+
+16. **Video DownloadHelper**: Downloads videos and images from websites.  
+    - [Chrome Store](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)  
+    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/)  
+    - [r/firefox](https://www.reddit.com/r/firefox/) (no dedicated subreddit)
+
+17. **StayFocusd**: Limits time spent on distracting websites to boost productivity.  
+    - [Chrome Store](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji)  
+    - (Not available for Firefox natively)  
+    - [r/productivity](https://www.reddit.com/r/productivity/) (no dedicated subreddit)
+
+18. **Pocket**: Saves articles and videos for offline reading later.  
+    - [Chrome Store](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)  
+    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/save-to-pocket/)  
+    - [r/pocket](https://www.reddit.com/r/pocket/)
+
+19. **Decentraleyes**: Serves local versions of common web libraries to block tracking.  
+    - [Chrome Store](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)  
+    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)  
+    - [r/privacy](https://www.reddit.com/r/privacy/) (no dedicated subreddit)
+
+20. **OneTab**: Converts all open tabs into a single list to save memory.  
+    - [Chrome Store](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifglmnjmjhflcbiffibg)  
+    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/onetab/)  
+    - [r/chrome](https://www.reddit.com/r/chrome/) (no dedicated subreddit)
+
+### 🛠️ Top Userscripts for 2025
+
+Userscripts are small JavaScript programs that run via extensions like Tampermonkey or Greasemonkey to modify webpages. Here are the top 5 userscripts for 2025, popular for enhancing functionality and user experience. Install Tampermonkey ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)) to use these.
+
+1. **YouTube Enhancer**: Improves YouTube with features like auto-HD, ad removal, and custom playback options.  
+   - [Greasy Fork](https://greasyfork.org/en/scripts/370891-youtube-enhancer)  
+   - [r/userscripts](https://www.reddit.com/r/userscripts/)
+
+2. **Anti-Adblock Killer**: Bypasses anti-adblock detection on websites to keep your ad blocker working.  
+   - [Greasy Fork](https://greasyfork.org/en/scripts/735-anti-adblock-killer-reek)  
+   - [r/userscripts](https://www.reddit.com/r/userscripts/)
+
+3. **Link Cleaner**: Removes tracking parameters from URLs across multiple sites.  
+   - [Greasy Fork](https://greasyfork.org/en/scripts/374849-link-cleaner)  
+   - [r/privacy](https://www.reddit.com/r/privacy/)
+
+4. **Dark Mode Everywhere**: Forces a dark theme on websites without native support.  
+   - [Greasy Fork](https://greasyfork.org/en/scripts/406309-dark-mode-everywhere)  
+   - [r/userscripts](https://www.reddit.com/r/userscripts/)
+
+5. **Reddit Enhancement Suite (RES)**: Adds features to Reddit like infinite scroll, inline images, and user tagging (also available as an extension, but the script version is lightweight).  
+   - [Greasy Fork](https://greasyfork.org/en/scripts/377944-reddit-enhancement-suite)  
+   - [r/enhancement](https://www.reddit.com/r/enhancement/)
