@@ -9,21 +9,21 @@ The browser wars are back, and this time it’s not just about benchmarks. It’
 
 ## 📊 The Browser Landscape in 2025
 
-- **Chrome**: Still the 800-pound gorilla holding 60%+ of the market.
-- **Edge**: Microsoft’s slick contender, second in usage, last in goodwill.
-- **Firefox**: Clinging to 3-4%, a darling of open-source diehards and privacy buffs.
-- **Brave**: The ad-hating crypto-touting upstart gaining steam.
-- **LibreWolf**: Firefox’s paranoid twin built for digital hermits.
-- **Safari**: Apple’s walled-garden browser, secure but shackled.
-- **Vivaldi**: A power user’s paradise overflowing with features.
-- **Opera**: A faded pioneer turned tracking machine.
-- **Waterfox**: The quiet Firefox fork that’s lost some shine.
-- **Ladybird**: A bold new engine rejecting Big Tech’s blueprints.
-- **Ungoogled Chromium**: Chromium stripped of Google’s tentacles, lean and private.
-- **Arc**: The hip futuristic browser reimagining UX.
-- **Zen**: Vertical-tab serenity atop Firefox’s bones.
-- **Floorp**: A customizable Firefox fork with privacy swagger.
-- **Tor**: The dark web’s gateway doubling as a privacy shield.
+- **Chrome**: Still the 800-pound gorilla holding 60%+ of the market. [Download](https://www.google.com/chrome/)
+- **Edge**: Microsoft’s slick contender, second in usage, last in goodwill. [Download](https://www.microsoft.com/en-us/edge)
+- **Firefox**: Clinging to 3-4%, a darling of open-source diehards and privacy buffs. [Download](https://www.mozilla.org/en-US/firefox/new/)
+- **Brave**: The ad-hating crypto-touting upstart gaining steam. [Download](https://brave.com/download/)
+- **LibreWolf**: Firefox’s paranoid twin built for digital hermits. [Download](https://librewolf.net/installation/)
+- **Safari**: Apple’s walled-garden browser, secure but shackled. [Download](https://www.apple.com/safari/) (macOS/iOS only)
+- **Vivaldi**: A power user’s paradise overflowing with features. [Download](https://vivaldi.com/download/)
+- **Opera**: A faded pioneer turned tracking machine. [Download](https://www.opera.com/download)
+- **Waterfox**: The quiet Firefox fork that’s lost some shine. [Download](https://www.waterfox.net/download/)
+- **Ladybird**: A bold new engine rejecting Big Tech’s blueprints. [Source](https://ladybird.dev/) (pre-alpha, no official download yet)
+- **Ungoogled Chromium**: Chromium stripped of Google’s tentacles, lean and private. [Download](https://github.com/ungoogled-software/ungoogled-chromium/releases)
+- **Arc**: The hip futuristic browser reimagining UX. [Download](https://arc.net/)
+- **Zen**: Vertical-tab serenity atop Firefox’s bones. [Download](https://www.zen-browser.app/download)
+- **Floorp**: A customizable Firefox fork with privacy swagger. [Download](https://floorp.app/en/download)
+- **Tor**: The dark web’s gateway doubling as a privacy shield. [Download](https://www.torproject.org/download/)
 
 This isn’t about who renders pages prettiest. It’s about who owns your data, who tracks your every click, and who gets rich off your attention.
 
@@ -46,7 +46,7 @@ Firefox dodges Google’s V3 trap with its Gecko engine keeping `uBlock Origin` 
 - A 2024 privacy policy scare hinted at content tracking, Mozilla swears it’s benign
 - Rare compatibility hiccups with bleeding-edge sites
 
-Still, Firefox is the best bet for balancing usability and principle.
+Still, Firefox is the best bet for balancing usability and principle. [Download](https://www.mozilla.org/en-US/firefox/new/)
 
 ---
 
@@ -56,7 +56,7 @@ LibreWolf takes Firefox, rips out the corporate cruft, and bolts on hardcore def
 - No telemetry, no Pocket, no Sync, no auto-updates
 - Ships with Arkenfox-grade hardening and full `uBlock Origin` support
 
-It’s Firefox for the tin-foil-hat crowd in the best way possible. If you want zero compromises, this is your fortress.
+It’s Firefox for the tin-foil-hat crowd in the best way possible. If you want zero compromises, this is your fortress. [Download](https://librewolf.net/installation/)
 
 > 🔧 *Check out my [LibreWolf customization script](https://github.com/SysAdminDoc/LibreWolf_DarkPortable) for a smoother ride.*
 
@@ -69,7 +69,7 @@ Brave bolts ad-blocking and tracker-smashing onto Chromium’s frame. It vows to
 - A 2020 affiliate-link scandal dented its cred
 - Chromium roots mean V3 could still bite eventually
 
-It’s Chrome’s speed without the surveillance for now. Privacy with an asterisk.
+It’s Chrome’s speed without the surveillance for now. Privacy with an asterisk. [Download](https://brave.com/download/)
 
 > 🧼 *Ditch the crypto clutter with my [Brave Debloat Script](https://github.com/SysAdminDoc/BraveDebloat).*
 
@@ -82,7 +82,7 @@ Edge is fast, polished, and fused to Windows 11. It’s also a telemetry vacuum:
 - Pushes Bing, Outlook, and Microsoft 365 hard
 - Paints itself as enterprise-ready while phoning home constantly
 
-It’s a corporate browser with corporate priorities. Steer clear if privacy matters.
+It’s a corporate browser with corporate priorities. Steer clear if privacy matters. [Download](https://www.microsoft.com/en-us/edge)
 
 ---
 
@@ -93,7 +93,7 @@ Safari shines on macOS and iOS, sleek, power-efficient, and privacy-first by def
 - Updates lag behind competitors
 - You’re trapped in Apple’s ecosystem
 
-Great for Apple loyalists, irrelevant for everyone else.
+Great for Apple loyalists, irrelevant for everyone else. [Download](https://www.apple.com/safari/) (macOS/iOS only)
 
 ---
 
@@ -103,7 +103,7 @@ Vivaldi, built by ex-Opera devs, turns Chromium into a customization playground:
 - Tab stacking, tiling, gestures, sidebars, built-in mail/RSS
 - Sync and endless UI tweaks
 
-Downsides? Chromium’s V3 woes loom, the small team struggles with update pace, and it’s overkill for minimalists. Still, it’s a tinkerer’s dream.
+Downsides? Chromium’s V3 woes loom, the small team struggles with update pace, and it’s overkill for minimalists. Still, it’s a tinkerer’s dream. [Download](https://vivaldi.com/download/)
 
 ---
 
@@ -114,7 +114,7 @@ Opera pioneered browser innovation, now it’s a Chromium clone with a rap sheet
 - Packed with a “free” VPN (read: proxy) and crypto fluff
 - Tracks users aggressively for profit
 
-It’s a shell of its former self. Use at your own risk.
+It’s a shell of its former self. Use at your own risk. [Download](https://www.opera.com/download)
 
 ---
 
@@ -124,7 +124,7 @@ Waterfox once promised a leaner faster Firefox with legacy extension support. Po
 - Development lags, updates are sparse
 - Privacy cred took a hit after the sale
 
-It’s a nostalgia pick for Firefox fans but LibreWolf outshines it.
+It’s a nostalgia pick for Firefox fans but LibreWolf outshines it. [Download](https://www.waterfox.net/download/)
 
 ---
 
@@ -134,7 +134,7 @@ Ladybird, born from SerenityOS by Andreas Kling, is a ground-up browser engine f
 - Lightweight, open-source, Big Tech-proof
 - Pre-alpha as of April 2025: no extensions, no sync
 
-It’s not ready for prime time but it’s a middle finger to monopolies. Watch this space.
+It’s not ready for prime time but it’s a middle finger to monopolies. Watch this space. [Source](https://ladybird.dev/) (pre-alpha, no official download yet)
 
 ---
 
@@ -145,7 +145,7 @@ Ungoogled Chromium strips Chromium to its core, axing all Google ties:
 - Lean and fast with full extension support (manual setup needed)
 - Requires hands-on tweaks for privacy flags
 
-It’s Chrome’s engine without the overlord. Perfect for privacy nuts who don’t mind DIY.
+It’s Chrome’s engine without the overlord. Perfect for privacy nuts who don’t mind DIY. [Download](https://github.com/ungoogled-software/ungoogled-chromium/releases)
 
 ---
 
@@ -156,7 +156,7 @@ Arc, from The Browser Company, is the trendy kid on the block:
 - “Boosts” for custom CSS/JS per site
 - Minimalist UI with maximalist ambition
 
-It’s Chromium-based so V3 looms and it’s still maturing. But for UX lovers, it’s a breath of fresh air.
+It’s Chromium-based so V3 looms and it’s still maturing. But for UX lovers, it’s a breath of fresh air. [Download](https://arc.net/)
 
 ---
 
@@ -167,7 +167,7 @@ Zen remixes Firefox with multitasking flair:
 - “Zen Glance” for link previews
 - SSL enforcement and tracker blocking baked in
 
-It’s Vivaldi’s feature-set with Firefox’s privacy soul, perfect for focused browsing.
+It’s Vivaldi’s feature-set with Firefox’s privacy soul, perfect for focused browsing. [Download](https://www.zen-browser.app/download)
 
 ---
 
@@ -177,7 +177,7 @@ Floorp is a Firefox fork blending LibreWolf’s privacy with Vivaldi’s flexibi
 - Multi-row/vertical tabs, custom CSS support
 - WebRTC/fingerprinting protections, no telemetry or Pocket
 
-It’s for users who want control without the hardcore asceticism of LibreWolf.
+It’s for users who want control without the hardcore asceticism of LibreWolf. [Download](https://floorp.app/en/download)
 
 ---
 
@@ -188,7 +188,7 @@ Tor Browser (Firefox-based) routes your traffic through the Tor network:
 - Access to dark web .onion sites
 - Blocks trackers and fingerprinting by default
 
-Trade-offs: slow speeds, occasional CAPTCHAs, and a learning curve. For ultimate privacy, it’s unmatched.
+Trade-offs: slow speeds, occasional CAPTCHAs, and a learning curve. For ultimate privacy, it’s unmatched. [Download](https://www.torproject.org/download/)
 
 ---
 
@@ -218,18 +218,18 @@ Trade-offs: slow speeds, occasional CAPTCHAs, and a learning curve. For ultimate
 
 In 2025, your browser isn’t just software, it’s a vote for the web’s future. Speed’s a given; the real stakes are freedom, trust, and who controls your digital life.
 
-- ✅ **Firefox**: Open-source backbone with room to tweak.
-- 🧱 **LibreWolf**: Privacy fortress, no apologies.
-- 🚀 **Brave**: Chrome’s perks, less evil (watch the crypto).
-- 🧪 **Ladybird**: The indie dream, give it time.
-- 🗂 **Vivaldi**: Features galore for control freaks.
-- 🍏 **Safari**: Apple’s safe haven if you’re already in.
-- 🌀 **Ungoogled Chromium**: Chrome sans Google, DIY privacy.
-- 🌐 **Arc**: Sleek UX for the forward-thinkers.
-- 🧘 **Zen**: Multitasking calm with Firefox roots.
-- 🧩 **Floorp**: Privacy meets personalization.
-- 🧅 **Tor**: Total anonymity, no questions asked.
-- 💧 **Waterfox**: Firefox lite but fading.
-- 📉 **Edge/Opera**: Corporate pawns, pass.
+- ✅ **Firefox**: Open-source backbone with room to tweak. [Download](https://www.mozilla.org/en-US/firefox/new/)
+- 🧱 **LibreWolf**: Privacy fortress, no apologies. [Download](https://librewolf.net/installation/)
+- 🚀 **Brave**: Chrome’s perks, less evil (watch the crypto). [Download](https://brave.com/download/)
+- 🧪 **Ladybird**: The indie dream, give it time. [Source](https://ladybird.dev/)
+- 🗂 **Vivaldi**: Features galore for control freaks. [Download](https://vivaldi.com/download/)
+- 🍏 **Safari**: Apple’s safe haven if you’re already in. [Download](https://www.apple.com/safari/)
+- 🌀 **Ungoogled Chromium**: Chrome sans Google, DIY privacy. [Download](https://github.com/ungoogled-software/ungoogled-chromium/releases)
+- 🌐 **Arc**: Sleek UX for the forward-thinkers. [Download](https://arc.net/)
+- 🧘 **Zen**: Multitasking calm with Firefox roots. [Download](https://www.zen-browser.app/download)
+- 🧩 **Floorp**: Privacy meets personalization. [Download](https://floorp.app/en/download)
+- 🧅 **Tor**: Total anonymity, no questions asked. [Download](https://www.torproject.org/download/)
+- 💧 **Waterfox**: Firefox lite but fading. [Download](https://www.waterfox.net/download/)
+- 📉 **Edge/Opera**: Corporate pawns, pass. [Edge](https://www.microsoft.com/en-us/edge) / [Opera](https://www.opera.com/download)
 
 This is the Adpocalypse. Your choice shapes the web’s fate. Choose wisely.
