@@ -3,7 +3,7 @@
 
 # 🔥 Browser Wars 2025: The Frontlines of the Web
 
-The browser wars are back, and this time it’s not just about benchmarks. It’s a brutal showdown over privacy, control, and the soul of the internet. Corporate titans with trillion-dollar ecosystems slug it out against scrappy privacy-first rebels fighting to keep the web open. Buckle up, here’s your no-BS guide to the battlefield featuring Chrome, Firefox, Brave, LibreWolf, Waterfox, Edge, Safari, Vivaldi, Opera, Ladybird, Ungoogled Chromium, and newcomers like Arc, Zen, Floorp, and Tor.
+The browser wars are back, and this time it’s not just about benchmarks. It’s a brutal showdown over privacy, control, and the soul of the internet. Corporate titans with trillion-dollar ecosystems slug it out against scrappy privacy-first rebels fighting to keep the web open. Buckle up, here’s your no-BS guide to the battlefield featuring Chrome, Firefox, Brave, LibreWolf, Waterfox, Edge, Safari, Vivaldi, Opera, Ladybird, Ungoogled Chromium, Arc, Zen, Floorp, and Tor.
 
 ---
 
