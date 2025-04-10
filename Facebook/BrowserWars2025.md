@@ -25,8 +25,6 @@ The browser wars are back, and this time it’s not just about benchmarks. It’
 - **Floorp**: A customizable Firefox fork with privacy swagger. [Download](https://floorp.app/en/download)
 - **Tor**: The dark web’s gateway doubling as a privacy shield. [Download](https://www.torproject.org/download/)
 
-This isn’t about who renders pages prettiest. It’s about who owns your data, who tracks your every click, and who gets rich off your attention.
-
 ---
 
 ## 🧨 Google vs. uBlock Origin: The Adpocalypse Escalates
@@ -216,7 +214,7 @@ Trade-offs: slow speeds, occasional CAPTCHAs, and a learning curve. For ultimate
 
 ## ⚔️ Pick Your Weapon
 
-In 2025, your browser isn’t just software, it’s a vote for the web’s future. Speed’s a given; the real stakes are freedom, trust, and who controls your digital life.
+In 2025, your browser isn’t just software, it’s a vote for the web’s future. Speed’s a given; the real stakes are freedom, trust, and who controls your digital life. This is the Adpocalypse. Your choice shapes the web’s fate. Choose wisely.
 
 - ✅ **Firefox**: Open-source backbone with room to tweak. [Download](https://www.mozilla.org/en-US/firefox/new/)
 - 🧱 **LibreWolf**: Privacy fortress, no apologies. [Download](https://librewolf.net/installation/)
@@ -232,4 +230,4 @@ In 2025, your browser isn’t just software, it’s a vote for the web’s futur
 - 💧 **Waterfox**: Firefox lite but fading. [Download](https://www.waterfox.net/download/)
 - 📉 **Edge/Opera**: Corporate pawns, pass. [Edge](https://www.microsoft.com/en-us/edge) / [Opera](https://www.opera.com/download)
 
-This is the Adpocalypse. Your choice shapes the web’s fate. Choose wisely.
+
